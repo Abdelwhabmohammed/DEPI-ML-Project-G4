@@ -8,14 +8,14 @@
 
 ## 📋 Table of Contents
 
-- [Project Overview](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#-project-overview)
-- [Architecture](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#%EF%B8%8F-architecture)
-- [Dataset](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#-dataset)
-- [Installation](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#-installation)
-- [Usage](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#-usage)
-- [Results](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#-results)
-- [Project Structure](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4/edit/main/README.md#-project-structure)
-- [Citation](#citation)
+- [Project Overview](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-project-overview)
+- [Architecture](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#%EF%B8%8F-architecture)
+- [Dataset](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-dataset)
+- [Installation](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-installation)
+- [Usage](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-usage)
+- [Results](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-results)
+- [Project Structure](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-project-structure)
+- [Key-Notebooks](https://github.com/Abdelwhabmohammed/DEPI-ML-Project-G4?tab=readme-ov-file#-key-notebooks)
 
 ## 🎯 Project Overview
 

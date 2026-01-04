@@ -3,7 +3,7 @@
 > **Deep Learning Project**: End-to-end image captioning system using InceptionV3 feature extraction and hybrid LSTM-Transformer decoder architectures, trained on the MS COCO dataset.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-orange.svg)](https://www.tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 Table of Contents
@@ -179,7 +179,7 @@ python scripts/model_comparison.py
 
 ## 📈 Results
 
-We deployed our model in addition to Blib2, and VIT-GPT2 using azure: [deployment](https://imagecaptioning-azhreseda6h2dzfr.francecentral-01.azurewebsites.net/)
+We deployed our model in addition to Blib2, and VIT-GPT2 using azure: [deployment](https://imagecaption-d0gje9h2eba2frh2.francecentral-01.azurewebsites.net/)
 
 ### BLEU Scores
 
